@@ -1,0 +1,7 @@
+C:\Users\Cristian\source\repos\Boligrafo\Boligrafo\bin\Debug\Boligrafo.exe.config
+C:\Users\Cristian\source\repos\Boligrafo\Boligrafo\bin\Debug\Boligrafo.exe
+C:\Users\Cristian\source\repos\Boligrafo\Boligrafo\bin\Debug\Boligrafo.pdb
+C:\Users\Cristian\source\repos\Boligrafo\Boligrafo\obj\Debug\Boligrafo.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\Boligrafo\Boligrafo\obj\Debug\Boligrafo.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Boligrafo\Boligrafo\obj\Debug\Boligrafo.exe
+C:\Users\Cristian\source\repos\Boligrafo\Boligrafo\obj\Debug\Boligrafo.pdb
